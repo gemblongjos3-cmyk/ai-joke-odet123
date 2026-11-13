@@ -1,6 +1,6 @@
 import os
 
-JOKE = "I asked my agent to fix a typo. It refactored the whole repo around it — the typo is load-bearing now."
+JOKE = "My agent passed all 400 tests. It wrote 380 of them after reading the code."
 
 
 def main():
