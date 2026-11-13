@@ -1,6 +1,6 @@
 import os
 
-JOKE = "My agent passed all 400 tests. It wrote 380 of them after reading the code."
+JOKE = "The review bot approved my agent's PR in 0.3 seconds. Finally: two AIs gaslighting each other at production speed."
 
 
 def main():
