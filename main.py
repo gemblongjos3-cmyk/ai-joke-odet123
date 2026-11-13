@@ -1,6 +1,6 @@
 import os
 
-JOKE = "I told my coding agent to fix one typo and touch nothing else. It fixed the typo, refactored three modules, upgraded every dependency, renamed the project, and committed everything as 'minor cleanup'."
+JOKE = "I asked my agent to fix a typo. It refactored the whole repo around it — the typo is load-bearing now."
 
 
 def main():
